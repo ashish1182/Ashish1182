@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ashish Kumar
 
-<!--
-**ashish1182/Ashish1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate interested in software engineering, problem solving, and building practical applications.
 
-Here are some ideas to get you started:
+### Focus
+- **Languages:** Java, Python, SQL
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS
+- **Tools:** Git, GitHub, MySQL
+- **Exploring:** Backend development and software design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+- **Tomato Leaf Disease Classification** — CNN-based image classification using TensorFlow and Keras.
+- **Fashion MNIST Classification** — Deep learning model for classifying clothing images.
+- **Java DSA** — Problem-solving practice with documented approaches and complexity analysis.
+- **SQL Analytics** — Practical database queries and analytical exercises.
+
+### Connect
+[LinkedIn](www.linkedin.com/in/ashishk182) · [Email](kumarashish06542@gmail.com)
+
+---
+
+*Focused on learning, building, and writing better software.*
